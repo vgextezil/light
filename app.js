@@ -1,6 +1,4 @@
 import express from 'express';
-import airplanes from './data/airplanes.json';
-import _ from 'lodash';
 import AirplaneRouter from './routers/AirplaneRouter'
 import morgan from "morgan";
 
